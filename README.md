@@ -1,2 +1,1 @@
-# Aula-JavaScript
-Introdução ao Javascript
+Olá esse é um curso sobre javascript e Git.
